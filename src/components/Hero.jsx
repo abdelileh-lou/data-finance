@@ -26,7 +26,7 @@ const Hero = () => {
           platforms.
         </p>
 
-        <button className=" bg-[#00df9a]  w-[200px] font-medium mx-auto my-6 py-3 rounded-md hover:bg-emerald-500  text-black">
+        <button className=" bg-[#00df9a]  w-[200px] font-medium mx-auto my-6 py-3 rounded-md hover:bg-emerald-500  text-black duration-200">
           Get Started
         </button>
       </div>
